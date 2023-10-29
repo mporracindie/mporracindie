@@ -9,6 +9,3 @@
 
 ## 💻 Tech Stack:
 Does it matter? I just get it done.
-
----
-[![](https://visitcount.itsvg.in/api?id=mporracindie&icon=0&color=1)](https://visitcount.itsvg.in)
